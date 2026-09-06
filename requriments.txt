@@ -1,8 +1,10 @@
-pandas
-numpy
-matplotlib
-scikit-learn
-joblib
-requests
-python-dotenv
 streamlit
+pandas
+plotly
+joblib
+scikit-learn
+python-dotenv
+requests
+hopsworks
+shap
+matplotlib
